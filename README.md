@@ -2,7 +2,7 @@
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@Dofinibot](https://t.me/dofinidevbot)
+### Available on telegram as [Mizu](https://t.me/MizuMusicBot)
 
 <p align="center">
   <img src="https://telegra.ph/file/d51a609a9d0a1ef79115a.jpg">
