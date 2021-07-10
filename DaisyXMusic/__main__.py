@@ -1,4 +1,4 @@
-# DofiniMusic (Telegram bot project)
+# Mizu Music (Telegram bot project)
 # Copyright (C) 2021  Pawan Theekshana & Rojserbest
 
 # This program is free software: you can redistribute it and/or modify
