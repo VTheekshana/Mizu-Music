@@ -1,4 +1,4 @@
-<h1 align="centre">DOFINIMUSIC V4.0 🎵</h1>
+<h1 align="centre">MIZUMUSIC V4.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
@@ -114,4 +114,4 @@ DaisyXmusic is a modified version of [Callsmusic](https://github.com/callsmusic/
 
 #### Contribtors
 
-- [pawan Theekshana](https://github.com/ImTheekshanaBro) Dev
+- 
