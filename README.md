@@ -5,7 +5,7 @@
 ### Available on telegram as [@Dofinibot](https://t.me/dofinidevbot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg">
+  <img src="https://telegra.ph/file/d51a609a9d0a1ef79115a.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -25,7 +25,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshannBro/DofiniMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshannBro/MizuMusic)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
@@ -33,7 +33,7 @@ Get pyrogram (p)  `SESSION` from here:
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/TeamDaisyX/DaisyXmusic
+$ git clone https://github.com/ImTheekshanaBro/Mizu-Music
 $ cd DaisyXMusic
 # Upgrade sources
 # Install All Requirements 
