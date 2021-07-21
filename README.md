@@ -5,7 +5,7 @@
 ### Available on telegram as [Mizu](https://t.me/MizuMusicBot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/d51a609a9d0a1ef79115a.jpg">
+  <img src="https://telegra.ph/file/9f71c8857d020ec68dd5f.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -24,7 +24,7 @@
 ## 🚀 Deployment
 
 ### 💜 Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshannBro/Mizu-Music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VTheekshana/Mizu-Music)
 template=https://github.com/ImTheekshannBro/Mizu-Music)
 
 Get pyrogram (p)  `SESSION` from here:
